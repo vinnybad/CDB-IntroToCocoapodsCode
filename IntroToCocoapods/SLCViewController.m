@@ -7,6 +7,7 @@
 //
 
 #import "SLCViewController.h"
+#import <DejalActivityView/DejalActivityView.h>
 
 @interface SLCViewController ()
 
@@ -18,6 +19,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    [DejalBezelActivityView activityViewForView:self.view];
 }
 
 - (void)didReceiveMemoryWarning

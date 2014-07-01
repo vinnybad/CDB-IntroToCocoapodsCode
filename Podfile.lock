@@ -1,0 +1,10 @@
+PODS:
+  - DejalActivityView (1.2)
+
+DEPENDENCIES:
+  - DejalActivityView (~> 1.2)
+
+SPEC CHECKSUMS:
+  DejalActivityView: ef0970deefe891fefd57af27765ddb21a8265755
+
+COCOAPODS: 0.32.1
